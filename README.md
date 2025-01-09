@@ -1,4 +1,4 @@
-# README: Web Scraping de Matéria do G1
+# Web Scraping de Matéria do G1
 
 Este projeto realiza um web scraping de uma matéria publicada no site do G1. O objetivo é extrair informações relevantes, como título, subtítulo, autor, data de publicação e conteúdo da matéria, e salvá-las em um arquivo JSON limpo e organizado.
 
