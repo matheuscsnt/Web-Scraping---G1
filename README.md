@@ -73,6 +73,3 @@ O arquivo JSON gerado terá o seguinte formato:
 
 ## Considerações Finais
 Este projeto foi desenvolvido como exemplo de web scraping simples, focado na extração de conteúdo textual de uma página web. Ele pode ser adaptado para outros sites e formatos, desde que respeitadas as políticas de uso do site alvo.
-
-Se houver dúvidas ou sugestões de melhoria, entre em contato! 😊
-
